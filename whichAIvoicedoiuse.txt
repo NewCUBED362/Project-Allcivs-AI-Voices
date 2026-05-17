@@ -3,3 +3,5 @@ here is a list of voices per civ on ElevenLabs:
 Victoria - Chamion (English, british accent)
 
 Julius Caesar - Alessandro Zanierato (italian)
+
+Qin Shi Huang - Haoran (china)
